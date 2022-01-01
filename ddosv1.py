@@ -4,9 +4,9 @@ ddosv1.py
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2 
+# welcome to my script 
 # script by YudhaXprojecT
-# 
+# jangan lupa follow brok
 
 
 from queue import Queue
